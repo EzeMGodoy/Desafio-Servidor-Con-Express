@@ -1,0 +1,21 @@
+[
+  {
+    "title": "Guitarra",
+    "price": 600,
+    "thumbnail": "https://cdn4.iconfinder.com/data/icons/btf_LIN/LIN/256/guitar.png",
+    "id": 1
+  },
+  {
+    "title": "Saxo",
+    "price": 800,
+    "thumbnail": "https://cdn4.iconfinder.com/data/icons/orchestra/png/256/folder.png",
+    "id": 2
+  },
+  {
+    "title": "Teclado",
+    "price": 650,
+    "thumbnail": "https://cdn2.iconfinder.com/data/icons/atrous/512/keyboard_piano-256.png",
+    "id": 3
+  }
+  
+]
